@@ -1,16 +1,33 @@
-## Hi there 👋
+<h2 align="left">👋 Olá, bem-vindo ao meu perfil no Github.</h2>
 
-<!--
-**RanieleFeitosa/RanieleFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Raniele, mas pode me chamar de Rani! 😊 Estudo Análise e Desenvolvimento de Sistemas e, de forma autônoma, também me dedico ao aprendizado de Java e outras tecnologias. Meu foco é no desenvolvimento back-end com Java.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Tecnologias que tenho conhecimento:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Você também pode me encontrar no LinkedIn:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/raniele-feitosa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
