@@ -20,13 +20,16 @@
 
 ###
 
-<h2 align="left">Você também pode me encontrar no LinkedIn:</h2>
+<h2 align="left">Você pode me contatar através do LinkedIn e do e-mail:</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/raniele-feitosa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="contato.conteudoprofissional@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
