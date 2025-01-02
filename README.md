@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Você pode me contatar através do LinkedIn e do e-mail:</h2>
+<h2 align="left">Você pode me contatar através do LinkedIn e do E-mail:</h2>
 
 ###
 
