@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que tenho conhecimento:</h2>
+<h2 align="left">Tecnologias/ferramentas que tenho conhecimento:</h2>
 
 ###
 
