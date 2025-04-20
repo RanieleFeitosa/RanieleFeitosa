@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Raniele, mas pode me chamar de Rani! 😊 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Possuo experiência prática com Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate e MySQL. Tenho interesse em criação de APIs RESTful, lógica de programação, POO e boas práticas de desenvolvimento.</p>
+<p align="left">Meu nome é Raniele, mas pode me chamar de Rani! 😊
+  Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Possuo experiência prática com Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate e MySQL. Tenho interesse em criação de APIs RESTful, lógica de programação, POO e boas práticas de desenvolvimento.</p>
 
 ###
 
