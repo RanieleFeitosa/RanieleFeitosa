@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Raniele, mas pode me chamar de Rani! 😊 Estudo Análise e Desenvolvimento de Sistemas e, de forma autônoma, também me dedico ao aprendizado de Java e outras tecnologias. Meu foco é no desenvolvimento back-end com Java.</p>
+<p align="left">Meu nome é Raniele, mas pode me chamar de Rani! 😊 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Possuo experiência prática com Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate e MySQL. Tenho interesse em criação de APIs RESTful, lógica de programação, POO e boas práticas de desenvolvimento.</p>
 
 ###
 
